@@ -2,4 +2,7 @@ We created a visual novel and dating simulator in RemPy. You, the main character
 
 Make decisions and unlock the different endings!
 
+Play here https://fanglin00.itch.io/co-love-tics
+
 <img width="1920" height="1080" alt="title" src="https://github.com/user-attachments/assets/2ae70294-13f4-4164-99fc-e0b8e64969b0" />
+
